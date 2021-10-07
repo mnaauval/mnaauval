@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Nauval Eka
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about anything
-- 😄 Pronouns: He
 - 👀 I’m interested in web development
 - 📫 How to reach me mnaauval20@gmail.com
 
