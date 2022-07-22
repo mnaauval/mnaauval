@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m Nauval Eka
-- 🌱 I’m currently learning Java and Quality Assurance
-- 💬 Ask me about anything
-- 👀 I’m interested in web development
+- 🌱 I’m learning everything interesting
+- 💬 AMA
+- 👀 I’m interested in web development and software testing
 - 📫 How to reach me mnaauval20@gmail.com
 
